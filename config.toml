@@ -5,7 +5,7 @@ theme = "hyde-hyde"
 googleAnalytics = ""
 enableEmoji=true
 
-publishDir= "docs"
+publishDir= "http://sergey-ivanchuk.github.io"
 
 [params]
   main = "Sergey Ivanchuk"
