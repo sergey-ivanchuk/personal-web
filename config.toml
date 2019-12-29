@@ -1,4 +1,4 @@
-baseURL = "http://sergey-ivanchuk.github.io/personal-web/"
+baseURL = "http://sergey-ivanchuk.github.io/"
 languageCode = "en-us"
 title = "Sergey Ivanchuk"
 theme = "hyde-hyde"
@@ -38,3 +38,5 @@ enableEmoji=true
     name = "Projects"
     url = "/post/projects"
     weight = 300
+
+https://github.com/sergey-ivanchuk/sergey-ivanchuk.github.io.git
