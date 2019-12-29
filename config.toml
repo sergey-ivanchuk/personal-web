@@ -5,17 +5,14 @@ theme = "hyde-hyde"
 googleAnalytics = ""
 enableEmoji=true
 
-# publishDir= "http://sergey-ivanchuk.github.io"
-
 [params]
   main = "Sergey Ivanchuk"
   description = "Data Scientist \n Minneapolis, MN"
   copyright = " Sergey Ivanchuk"
   themeColor = "theme-base-08"
   license = "MIT"
-  licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+  licenseURL = "https://en.wikipedia.org/wiki/MIT_License"
   showBuiltWith=true
-
 
 [params.social]
     linkedin = "sergey-ivanchuk-0bb07b90"

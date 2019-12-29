@@ -2,7 +2,7 @@
 title: Work Experience
 date: "2019-12-12"
 categories: [ "experience"]
-tags: ["healthcare","consulting","work-experience"]
+tags: ["work-experience","technical-skills","soft-skills"]
 ---
 
 ## Industry & Domain Knowledge
