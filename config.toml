@@ -1,11 +1,11 @@
-baseURL = "http://sergey-ivanchuk.github.io/"
+baseURL = "http://sergey-ivanchuk.github.io/personal-web/"
 languageCode = "en-us"
 title = "Sergey Ivanchuk"
 theme = "hyde-hyde"
 googleAnalytics = ""
 enableEmoji=true
 
-publishDir= "http://sergey-ivanchuk.github.io"
+# publishDir= "http://sergey-ivanchuk.github.io"
 
 [params]
   main = "Sergey Ivanchuk"
