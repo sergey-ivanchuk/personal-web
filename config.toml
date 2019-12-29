@@ -1,0 +1,42 @@
+baseURL = "http://sergey-ivanchuk.github.io/"
+languageCode = "en-us"
+title = "Sergey Ivanchuk"
+theme = "hyde-hyde"
+googleAnalytics = ""
+enableEmoji=true
+# enableRobotsTXT=true
+# pygmentsUseClasses=true
+# pygmentsCodeFences=true
+
+
+[params]
+  main = "Sergey Ivanchuk"
+  description = "Data Scientist \n Minneapolis, MN"
+  copyright = " Sergey Ivanchuk"
+  themeColor = "theme-base-08"
+  license = "MIT"
+  licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+  showBuiltWith=true
+
+
+[params.social]
+    linkedin = "sergey-ivanchuk-0bb07b90"
+    email = "sergey.ivanchuk@gmail.com"
+
+[[menu.main]]
+    identifier = "background"
+    name = "Background"
+    url = "/post/about"
+    weight = 100
+
+[[menu.main]]
+    identifier = "experience"
+    name = "Work Experience"
+    url = "/post/experience"
+    weight = 200
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/post/projects"
+    weight = 300
